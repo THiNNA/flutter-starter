@@ -1,0 +1,8 @@
+{
+  "appTitle": "Flutter Starter",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "login": "Login",
+  "welcomeMessage": "Welcome back!"
+}
